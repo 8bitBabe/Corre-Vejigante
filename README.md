@@ -1,5 +1,6 @@
 # Corre-Vejigante
 Infinite runner for mobile with elements of puertorrican culture.
+UNDER DEVELOPMENT
 
 PRE-ALPHA VERSION
 Unreal Engine 4.19 or higher required.
